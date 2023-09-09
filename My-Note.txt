@@ -1,3 +1,13 @@
+1. Components
+2. JSX
+3. Props
+4. Event Handler
+5. State
+6. useState() // Hook
+7. useEffect() // Hook 
+8. Load Data 
+
+
 
 Properties (Props)
 Send Kora name='Sohel Rana' > Receive Kora {name}
