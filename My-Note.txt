@@ -1,0 +1,22 @@
+
+Properties (Props)
+Send Kora name='Sohel Rana' > Receive Kora {name}
+Send Kora name={VarName} > Receive Kora {name}
+
+export default > import FileName from './FileName' // jsx file import
+import './FileName.css' // css file import css file e export likar dorkar nai 
+
+
+Event Handle
+
+var [count, setCount] = useState(0);  // useState() nijer modde man ta reke shob jaygay update kore pele
+
+useEffect( () => {}, [] )  // sideEffect handle kore, async code ke synce kore 
+
+
+
+
+
+
+
+
